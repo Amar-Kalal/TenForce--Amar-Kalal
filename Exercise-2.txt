@@ -1,0 +1,7 @@
+Exercise-2
+
+I write the solution for calculate average moon gravity in few lines of code. and also below explain it's benifits and drawback. 
+
+Benefit: This method considers how much each moon's gravity affects the planet, using their mass. This gives a more detailed average gravity estimate.
+
+Drawback: It needs precise data on each moon's mass and distance from the planet. This data may not be easy to get or could have uncertainties in astronomical measurements.
